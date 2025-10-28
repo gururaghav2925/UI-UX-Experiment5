@@ -42,5 +42,12 @@ Competitive Analysis establishes a baseline of existing solutions and identifies
 Interviews are crucial for uncovering the deep-seated trust issues surrounding "greenwashing" and understanding the specific content users need to feel confident.
 
 Surveys help ensure the design focuses on the most impactful data, preventing the team from building overly complex features that only a niche group would use.
+
+## Output:
+
+[exp5.pdf](https://github.com/user-attachments/files/23182731/exp5.pdf)
+
+
+
 ## Result:
 To Present 2 different UX project scenarios is completed successfully
